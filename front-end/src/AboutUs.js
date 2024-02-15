@@ -23,7 +23,7 @@ const AboutUs = () => {
       <h2>About Us</h2>
       <p>{aboutUsData.text}</p>
       <img src={aboutUsImage} alt="Photo of Bobby Impastato" />
-      {/* Add more content as needed */}
+      {/* data*/}
     </div>
   );
 };
